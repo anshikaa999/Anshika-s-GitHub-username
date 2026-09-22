@@ -4,6 +4,20 @@
 
 <br>
 
+<br>
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│       /\_/\\          Hello, World!         │
+│      ( o.o )                                  │
+│       > ^ <          ~ welcome ~             │
+│                                              │
+╰──────────────────────────────────────────────╯
+<turning ideas into real world solutions>
+
 ### `> whoami`
 
 </div>
