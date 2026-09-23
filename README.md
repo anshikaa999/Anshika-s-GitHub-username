@@ -8,19 +8,13 @@
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│       /\_/\\          Hello, World!         │
-│      ( o.o )                                  │
-│       > ^ <          ~ welcome ~             │
-│                                              │
-╰──────────────────────────────────────────────╯
-<turning ideas into real world solutions>
+<img src="./assets/hello-world.gif" width="90%" alt="Hello World Animation">
+
+</div>
 
 ### `> whoami`
 
-</div>
+
 
 I'm **Anshika** — a B.Tech student specializing in **Artificial Intelligence & Data Science** and a **Full Stack Developer**.
 
