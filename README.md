@@ -4,14 +4,13 @@
 
 <br>
 
-<br>
 
 <div align="center">
 
-<img src="./assets/hello-world.gif" width="90%" alt="Hello World Animation">
+<img src="./assets/newhello-world.gif" width="90%" alt="Hello World Animation">
 
 </div>
-
+<br>
 
 ### `> whoami`
 
