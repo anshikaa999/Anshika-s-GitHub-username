@@ -55,14 +55,11 @@
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-2b1b2b?style=for-the-badge&logo=html5&logoColor=f3a6d8"/>
-<img src="https://img.shields.io/badge/CSS3-2b1b2b?style=for-the-badge&logo=css3&logoColor=f3a6d8"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-2b1b2b?style=for-the-badge&logo=tailwind-css&logoColor=f3a6d8"/>
-<img src="https://img.shields.io/badge/Java-2b1b2b?style=for-the-badge&logo=openjdk&logoColor=f3a6d8"/>
+
 
 <br>
 
 <img src="https://img.shields.io/badge/FastAPI-2b1b2b?style=for-the-badge&logo=fastapi&logoColor=f3a6d8"/>
-<img src="https://img.shields.io/badge/Spring_Boot-2b1b2b?style=for-the-badge&logo=springboot&logoColor=f3a6d8"/>
 <img src="https://img.shields.io/badge/SQL-2b1b2b?style=for-the-badge&logo=postgresql&logoColor=f3a6d8"/>
 <img src="https://img.shields.io/badge/Git-2b1b2b?style=for-the-badge&logo=git&logoColor=f3a6d8"/>
 <img src="https://img.shields.io/badge/GitHub-2b1b2b?style=for-the-badge&logo=github&logoColor=f3a6d8"/>
@@ -116,11 +113,11 @@ Contributing & learning
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anshika-tyagi">
+<a href="[https://www.linkedin.com/in/anshika-tyagi](https://www.linkedin.com/in/anshika-tyagi-2b66a531b?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
 <img src="https://img.shields.io/badge/LinkedIn-2b1b2b?style=for-the-badge&logo=linkedin&logoColor=f3a6d8"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:anshika21.work@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-2b1b2b?style=for-the-badge&logo=gmail&logoColor=f3a6d8"/>
 </a>
 
