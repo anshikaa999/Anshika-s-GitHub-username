@@ -88,7 +88,7 @@ curious mind · creative eye · code enthusiast
 <br>
 
 ### 💻
-### FULL STACK
+### SOFTWARE SYSTEMS ENGINEERING
 
 <sub>
 Building complete web experiences
@@ -104,7 +104,7 @@ with clean frontend + backend systems
 <br>
 
 ### 🧠
-### AI & ML
+### COMPUTATIONAL INTELLIGENCE
 
 <sub>
 Exploring intelligent systems,
@@ -124,7 +124,7 @@ machine learning & practical AI
 <br>
 
 ### 📊
-### DATA
+### DATA SYSTEM ENGINEERING
 
 <sub>
 Working with data, analysis,
@@ -140,7 +140,7 @@ visualization & insights
 <br>
 
 ### 🎨
-### UI & DESIGN
+### EXPERIENCE ENGINEERING
 
 <sub>
 Making interfaces feel clean,
